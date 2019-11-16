@@ -38,5 +38,24 @@
         </nav>
       </div>
     </section>
+    <section class="section">
+      <div class="container">
+        <h2 class="title" style="margin-bottom: 3rem;">How to reach us </h2>
+        <p class="subtitle">There are several means of transport that you can use to come visit use:</p>
+        <div class="content">
+          <ul>
+            <li>Train</li>
+            <li>Car</li>
+            <li>Buses</li>
+          </ul>
+        </div>
+        <p class="subtitle">
+          <strong>Do you want to be more sustainable?</strong> Use public transport to reach Bolzano and then use bikesharing and carsharing to travel around South Tyrol.
+          <br>
+          Here's a map you can use to find the nearest cars and bike stations:
+        </p>
+        <img src="/webcomponent.png" alt="Prototype of a web component">
+      </div>
+    </section>
   </div>
 </template>
