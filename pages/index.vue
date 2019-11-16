@@ -9,7 +9,7 @@
     </section>
     <section class="section">
       <div class="container">
-        <h2 class="title is-3" style="margin-bottom: 3rem,">Contact Info</h2>
+        <h2 class="title is-3" style="margin-bottom: 3rem;">Contact Info</h2>
         <nav class="level">
           <div class="level-item has-text-centered">
             <div>
